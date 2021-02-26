@@ -7,8 +7,6 @@ export default {
 			"children": [
 				"6039032b465b2a001e0eac63",
 				"6039032b465b2a001e0eac65",
-				"6039082e83b4ad001e35304c",
-				"60390832752fdd001f93497e",
 				"60390d0e752fdd001f9349d6"
 			]
 		},
@@ -21,16 +19,6 @@ export default {
 			"id": "6039032b465b2a001e0eac65",
 			"name": "index",
 			"pageUrl": "index"
-		},
-		"6039082e83b4ad001e35304c": {
-			"id": "6039082e83b4ad001e35304c",
-			"pageUrl": "page1",
-			"name": "testpage1"
-		},
-		"60390832752fdd001f93497e": {
-			"id": "60390832752fdd001f93497e",
-			"pageUrl": "page2",
-			"name": "testpage2"
 		},
 		"60390d0e752fdd001f9349d6": {
 			"id": "60390d0e752fdd001f9349d6",
