@@ -24,12 +24,12 @@ export default {
 		"6039082e83b4ad001e35304c": {
 			"id": "6039082e83b4ad001e35304c",
 			"pageUrl": "page1",
-			"name": "Page1(2)"
+			"name": "testpage1"
 		},
 		"60390832752fdd001f93497e": {
 			"id": "60390832752fdd001f93497e",
 			"pageUrl": "page2",
-			"name": "Page2(3)"
+			"name": "testpage2"
 		}
 	},
 	"mode": "production",
